@@ -192,7 +192,7 @@ body{
     display: flex;
     flex-direction: row;
     background-color: #F3F4F6;
-    height: 62vh;
+    height: 74vh;
   }
   .momentum-sumary-context {
     margin-right: 20px;
@@ -215,7 +215,7 @@ body{
   .momentum-paragraph p {
     margin-top: 15px;
     margin-bottom: 40px;
-    width: 220%;
+    width: 190%;
     font-size: 13px;
     line-height: 1.9;
   }
@@ -280,7 +280,7 @@ body{
   }
   .stylists-details-names{
     text-align: center;
-    padding-top: 15px;
+    padding-top: 5px;
     padding-bottom: 20px;
   }
   .peeps p{
@@ -303,8 +303,8 @@ body{
     background-size: cover;
     background-repeat: no-repeat;
     width: 1400px;
-    height: 55vh;
-    margin-left: 340px;
+    height: 74vh;
+    margin-left: 40px;
     margin-bottom: 100px;
   }
   .coupon-title {
@@ -399,24 +399,24 @@ body{
 
 
 .img-pic-1 {
-    left: 270px;
+    left: 70px;
     top: 0;
 }
 
 .img-pic-2 {
     width: 400px;
     height: 42vh;
-    left: 690px;
-    top: -366px;
+    left: 450px;
+    top: -368px;
 }
 
 .img-pic-3 {
-    left: 1270px;
+    left: 870px;
     top: -763px;
 }
 
 .img-pic-4 {
-    left: 415px;
+    left: 70px;
     top: -730px;
 }
 
@@ -424,10 +424,10 @@ body{
     width: 400px;
     height: 42vh;
     top: -329px;
-    left: 160px;
+    left: 140px;
 }
 
 .img-pic-6 {
-    left: -100px;
+    left: 226px;
     top: -726px;
 }
