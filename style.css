@@ -58,7 +58,7 @@ body{
   .hero-sumary-container h1 {
     font-size: 130px;
     display: flex;
-    margin-top: 100px;
+    margin-top: 10px;
     margin-bottom: 0;
     font-family: "Cinzel", serif;
     font-weight: 100;
@@ -90,7 +90,7 @@ body{
   }
   .hero-secondary-summary {
     position: relative;
-    margin-top: 400px;
+    margin-top: 12px;
   }
   .hero-secondary-title {
     position: absolute;
@@ -120,7 +120,7 @@ body{
   }
   .btn-online-link {
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 10px;
     font-weight: 500;
     width: 180px;
     height: 7vh;
@@ -161,7 +161,7 @@ body{
     position: relative;
 }
 #service-summary {
-    margin-left: 225px;
+    margin-left: 25px;
 }
 .services-summary-context h3{
     font-family: "Cinzel", serif;
@@ -192,13 +192,13 @@ body{
     display: flex;
     flex-direction: row;
     background-color: #F3F4F6;
-    height: 55vh;
+    height: 62vh;
   }
   .momentum-sumary-context {
     margin-right: 20px;
     width: 25%;
-    margin-top: 70px;
-    margin-left: 452px;
+    margin-top: 20px;
+    margin-left: 42px;
     margin-right: 190px;
   }
   .momentum-sumary-text{
@@ -206,6 +206,7 @@ body{
   }
   .momentum-sumary-text h2 {
     font-size: 40px;
+    width: 190%;
     margin-bottom: 0;
   }
   .momentum-paragraph{
@@ -214,8 +215,8 @@ body{
   .momentum-paragraph p {
     margin-top: 15px;
     margin-bottom: 40px;
-    width: 120%;
-    font-size: 16px;
+    width: 220%;
+    font-size: 13px;
     line-height: 1.9;
   }
   .read-more-link{
@@ -224,6 +225,7 @@ body{
     width: 190px;
     height: 7vh;
     background: black;
+    margin-top: -10px;
   }
   .read-more-link a {
     text-decoration: none;
@@ -234,7 +236,7 @@ body{
     position: relative;
     background-repeat: no-repeat;
     background-size: contain;
-    margin-top: 60px;
+    margin-top: 40px;
   }
   .momentum-img-context img{
     margin-top: -25px;
